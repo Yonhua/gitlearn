@@ -1,0 +1,2 @@
+learn git init
+fist you should learn how to  config you PC`
