@@ -1,2 +1,6 @@
 learn git init
+learn git xx
+learn git log 
+learn git status
+learn git fetch
 fist you should learn how to  config you PC`
